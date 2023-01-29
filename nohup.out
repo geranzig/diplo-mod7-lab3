@@ -1,0 +1,3 @@
+mvnw.cmd: line 1: @REM: command not found
+mvnw.cmd: line 2: syntax error near unexpected token `('
+mvnw.cmd: line 2: `@REM Licensed to the Apache Software Foundation (ASF) under one'
